@@ -76,17 +76,9 @@ Aquí puedes explorar algunos de los sitios web que he desarrollado y que actual
   <ul>
     <li><strong>VPS (Servidor Privado Virtual):</strong> Administración de Servidores dedicados y No Administrados.</li>
     <li><strong>Hosting Compartido:</strong> Gestión de entornos de Hosting tradicional para proyectos de menor escala.</li>
-    <li><strong>Cloud Computing:</strong> Uso de servicios en la Nube (Administrados y No Administrados, Ej. AWS/GCP).</li>
   </ul>
   
-  ---
-  
-  <h3>Mi Actividad en GitHub</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=[TU_USUARIO_GITHUB]&show_icons=true&theme=radical&hide_border=true&count_private=true&locale=es" alt="Estadísticas de GitHub"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[TU_USUARIO_GITHUB]&theme=radical&hide_border=true&locale=es" alt="Racha de Contribución"/>
-</div>
 
----
 
 ## 🤝 Colaboración y Contacto
 
