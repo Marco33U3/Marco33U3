@@ -16,10 +16,6 @@
 > <strong>Filosofía de Crecimiento y Acción:</strong>
 > Mi enfoque se basa en la <strong>acción constante</strong>. Creo firmemente que la convicción y el movimiento son esenciales: <strong>es mejor pensar y hacer, respaldado por la creencia de que podemos lograrlo.</strong> Con <strong>2 años de experiencia</strong>, mi compromiso es el <strong>aprendizaje continuo</strong>, mejorando mis habilidades día con día para alcanzar resultados superiores.
 > 
-> ```javascript
-> // El éxito reside en la acción, la convicción y la mejora continua.
-> const commitment = () => 'return continuous_learning.striveForExcellence();';
-> ```
 
 ---
 
