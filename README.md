@@ -11,7 +11,7 @@
 | 🚀 <strong>Experiencia y Rol</strong> | 🎓 <strong>Especialización</strong> | 💡 <strong>Objetivo Principal</strong> |
 | :--- | :--- | :--- |
 | <strong>2 años</strong> de experiencia en Desarrollo de Software. | <strong>Desarrollo de Sistemas</strong> y Administración de TI. | Impulsar la <strong>Eficiencia Operativa</strong> y la <strong>Transformación Digital</strong>. |
-| Rol actual: <strongFreelance Full Stack Developer</strong>. | Creación de soluciones robustas y escalables. | Código limpio, rendimiento y soluciones mantenibles. |
+| Rol actual: <strong>Freelance Full Stack Developer</strong>. | Creación de soluciones robustas y escalables. | Código limpio, rendimiento y soluciones mantenibles. |
 
 > <strong>Filosofía de Crecimiento y Acción:</strong>
 > Mi enfoque se basa en la <strong>acción constante</strong>. Creo firmemente que la convicción y el movimiento son esenciales: <strong>es mejor pensar y hacer, respaldado por la creencia de que podemos lograrlo.</strong> Con <strong>2 años de experiencia</strong>, mi compromiso es el <strong>aprendizaje continuo</strong>, mejorando mis habilidades día con día para alcanzar resultados superiores.
