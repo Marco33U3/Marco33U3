@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWM5OTI4eDBybTRqMG1rbm0xc2Ztb2Zzd2h4YThjMTZ1ZTR5OHd5OCZlcD12MV9pbnRlcm5hbF9naWZfY2F0YWxvZyZjdD1n/qgQUV3p1y3i3f4v7gK/giphy.gif" width="60" alt="Animated greeting"/>
   <h1>👋 ¡Hola! Soy <strong>MARCO CRUZ</strong></h1>
-  <p>Ingeniero en Tecnologías de la Información | Desarrollador Full Stack Freelance</p>
+  <p>Ingeniero en Tecnologías de la Información | Desarrollador Full Stack </p>
 </div>
 
 ---
@@ -51,9 +51,9 @@ Aquí puedes explorar algunos de los sitios web que he desarrollado y que actual
 | :--- | :--- | :---: |
 | <strong>SIASZIN</strong> | <img src="https://skillicons.dev/icons?i=php,mysql,css,js,html" width="70"/> | <a href="https://dif.sistemas-tics.icu/" target="_blank"><img src="https://img.shields.io/badge/Ver_Sitio-0077B5?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Enlace a Sistema DIF Municipal"/></a> |
 | <strong>SISTEMA PARA CITAS JURIDICAS</strong> | <img src="https://skillicons.dev/icons?i=php,mysql,css,js,html" width="70"/> | <a href="https://smdif.sistemas-tics.icu/" target="_blank"><img src="https://img.shields.io/badge/Ver_Sitio-0077B5?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Enlace a Sistema DIF Municipal"/></a> | |
-| <strong>[NOMBRE_DEL_PROYECTO_3]</strong> | <img src="https://skillicons.dev/icons?i=html,js,tailwind" width="70"/> | <a href="[URL_SITIO_3]" target="_blank"><img src="https://img.shields.io/badge/Ver_Sitio-0077B5?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Enlace a Sitio 3"/></a> |
-| <strong>[NOMBRE_DEL_PROYECTO_4]</strong> | <img src="https://skillicons.dev/icons?i=php,mysql,bootstrap" width="70"/> | <a href="[URL_SITIO_4]" target="_blank"><img src="https://img.shields.io/badge/Ver_Sitio-0077B5?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Enlace a Sitio 4"/></a> |
-| <strong>[NOMBRE_DEL_PROYECTO_5]</strong> | <img src="https://skillicons.dev/icons?i=react,mysql" width="70"/> | <a href="[URL_SITIO_5]" target="_blank"><img src="https://img.shields.io/badge/Ver_Sitio-0077B5?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Enlace a Sitio 5"/></a> |
+| <strong>[MODULO INFORMATIVO]</strong> | <img src="https://skillicons.dev/icons?i=html,js,tailwind" width="70"/> | <a href="[URL_SITIO_3]" target="_blank"><img src="https://img.shields.io/badge/Ver_Sitio-0077B5?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Enlace a Sitio 3"/></a> |
+| <strong>[SISTEMA PARA GESTION DOCENTES]</strong> | <img src="https://skillicons.dev/icons?i=php,mysql,bootstrap" width="70"/> | <a href="[URL_SITIO_4]" target="_blank"><img src="https://img.shields.io/badge/Ver_Sitio-0077B5?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Enlace a Sitio 4"/></a> |
+| <strong>[AGENDA PSICOLOGICA]</strong> | <img src="https://skillicons.dev/icons?i=react,mysql" width="70"/> | <a href="[URL_SITIO_5]" target="_blank"><img src="https://img.shields.io/badge/Ver_Sitio-0077B5?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Enlace a Sitio 5"/></a> |
 
 ---
 
@@ -88,11 +88,9 @@ Si estás buscando un profesional para:
 | Plataforma | Datos de Contacto | Icono |
 | :--- | :--- | :---: |
 | <strong>📧 Email</strong> | mt4341913gmail.com | <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail Badge"/> |
-| <strong>🔗 LinkedIn</strong> | [Tu Enlace de LinkedIn] | <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> |
-| <strong>📘 Facebook</strong> | [Tu Enlace de Facebook] | <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook Badge"/> |
-| <strong>🐦 X (Twitter)</strong> | [Tu Enlace de X/Twitter] | <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X Badge"/> |
+
 
 <br>
 <div align="center">
-  <p>🚀 <strong>Explora mis repositorios</strong> para ver mi compromiso y la calidad del código. ¡Estoy listo para tu próximo desafío!</p>
+  <p>🚀 <strong>Explora mi sitio WEB</strong> para ver mi compromiso y mis proyectos desarrollados. ¡Estoy listo para el próximo desafío!</p>
 </div>
